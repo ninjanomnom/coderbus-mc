@@ -647,6 +647,7 @@ ThaumicHorizons:visDynamo
 ThaumicHorizons:voidTH
 ThaumicHorizons:vortexStabilizer
 ThaumicHorizons:vortexTH
+TravellersGear:armorstand
 advancedRocketry:advancedRocketrymetal0
 advancedRocketry:alienLeaves
 advancedRocketry:alienSapling
@@ -2618,6 +2619,8 @@ ThaumicHorizons:voidTH
 ThaumicHorizons:vortexStabilizer
 ThaumicHorizons:vortexTH
 ThaumicHorizons:wandCastingDisposable
+TravellersGear:armorstand
+TravellersGear:simpleGear
 advancedRocketry:advancedRocketrymetal0
 advancedRocketry:advancedRocketryproductboule
 advancedRocketry:advancedRocketryproductcrystal

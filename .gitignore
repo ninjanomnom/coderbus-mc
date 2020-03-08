@@ -7,8 +7,6 @@ crash-reports/
 
 FailedClasses/
 
-local/
-
 logs/
 
 saves/
@@ -28,3 +26,7 @@ settings.rtg
 TimeUsage.txt
 
 usernamecache.json
+
+mods/carpentersblocks/
+
+config/MapWriterBlockColours.txt

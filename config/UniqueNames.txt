@@ -425,6 +425,7 @@ ImmersiveEngineering:woodenDevice
 ImmersiveEngineering:woodenStairs
 ImmersiveEngineering:woodenStairs1
 ImmersiveEngineering:woodenStairs2
+JABBA:barrel
 MCFrames:mcframes.frame
 MCFrames:mcframes.motor
 OpenBlocks:autoanvil
@@ -2166,6 +2167,14 @@ ImmersiveEngineering:woodenDevice
 ImmersiveEngineering:woodenStairs
 ImmersiveEngineering:woodenStairs1
 ImmersiveEngineering:woodenStairs2
+JABBA:barrel
+JABBA:hammer
+JABBA:mover
+JABBA:moverDiamond
+JABBA:tuningFork
+JABBA:upgradeCore
+JABBA:upgradeSide
+JABBA:upgradeStructural
 MCFrames:mcframes.frame
 MCFrames:mcframes.motor
 OpenBlocks:autoanvil

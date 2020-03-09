@@ -1601,13 +1601,6 @@ thaumicenergistics:thaumicenergistics.block.gear.box
 thaumicenergistics:thaumicenergistics.block.golem.gear.box
 thaumicenergistics:thaumicenergistics.block.infusion.provider
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber
-weather2:Anemometer
-weather2:TornadoSensor
-weather2:TornadoSiren
-weather2:WeatherDeflector
-weather2:WeatherForecast
-weather2:WeatherMachine
-weather2:WindVane
 witchery:alderwooddoor
 witchery:alluringskull
 witchery:altar
@@ -4636,13 +4629,6 @@ thaumicenergistics:thaumicenergistics.block.golem.gear.box
 thaumicenergistics:thaumicenergistics.block.infusion.provider
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber
 thaumicenergistics:wireless.essentia.terminal
-weather2:Anemometer
-weather2:TornadoSensor
-weather2:TornadoSiren
-weather2:WeatherDeflector
-weather2:WeatherForecast
-weather2:WeatherMachine
-weather2:WindVane
 witchery:alderwooddoor
 witchery:alluringskull
 witchery:altar

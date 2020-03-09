@@ -33,3 +33,15 @@ config/MapWriterBlockColours.txt
 
 mods/Reika/ChromatiCraft/Music/file_list.dat
 journeymap
+
+1.15.2.json
+
+libraries/
+
+eula.txt
+
+forge-1.15.2-31.1.18.jar
+
+minecraft_server.1.15.2.jar
+
+server.properties

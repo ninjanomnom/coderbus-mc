@@ -15,7 +15,7 @@
   },
   "commands": {
     "back": true,
-    "home": true,
+    "home": false,
     "name_admin": "admin",
     "spawn": true,
     "tplast": true,

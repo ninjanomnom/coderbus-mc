@@ -14,12 +14,12 @@
     "max_player_offline_hours": 24.0
   },
   "commands": {
-    "back": true,
+    "back": false,
     "home": false,
     "name_admin": "admin",
-    "spawn": true,
-    "tplast": true,
-    "warp": true
+    "spawn": false,
+    "tplast": false,
+    "warp": false
   },
   "general": {
     "blocked_entities": [],

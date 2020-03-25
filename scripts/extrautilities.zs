@@ -1,7 +1,10 @@
 recipes.remove(<ExtraUtilities:curtains>);
+
+val wool = <ore:blockWool>;
+
 recipes.addShaped(<ExtraUtilities:curtains>,
 	[
-		[<Minecraft:wool:*>, <Minecraft:wool:*>, <Minecraft:wool:*>],
-		[<Minecraft:wool:*>, <Minecraft:wool:*>, <Minecraft:wool:*>],
+		[wool, wool, wool],
+		[wool, wool, wool],
 		[null, null, null]
-	])
+	]);

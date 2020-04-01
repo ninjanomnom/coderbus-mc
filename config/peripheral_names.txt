@@ -1,5 +1,6 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+Reika.ChromatiCraft.TileEntity.Recipe.TileEntityCastingAuto	ccchroma_automator
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand
